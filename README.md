@@ -329,7 +329,8 @@ running the model in completely new images out of dataset
 
 
 **7**
-![1.jpg](attachment:1.jpg)
+
+![1](https://user-images.githubusercontent.com/37925362/150112019-7e8d08ee-6dfe-44a5-9c4d-21c495b51046.jpg)
 
 
 ```python
@@ -368,7 +369,8 @@ print(digit)
     
 
 **6**
-![6.jpg](attachment:6.jpg)
+
+![6](https://user-images.githubusercontent.com/37925362/150111993-75213261-7724-4994-a02d-652d926bae10.jpg)
 
 
 ```python
