@@ -329,6 +329,7 @@ running the model in completely new images out of dataset
 
 
 **7**
+
 ![1](https://user-images.githubusercontent.com/37925362/150112019-7e8d08ee-6dfe-44a5-9c4d-21c495b51046.jpg)
 
 
@@ -368,6 +369,7 @@ print(digit)
     
 
 **6**
+
 ![6](https://user-images.githubusercontent.com/37925362/150111993-75213261-7724-4994-a02d-652d926bae10.jpg)
 
 
