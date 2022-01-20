@@ -98,7 +98,8 @@ These behaviours are implemented in the evaluate model() function, which takes t
 
 Model architecture
 
-![model.png](attachment:model.png)
+![model](https://user-images.githubusercontent.com/37925362/150371040-ec7adc60-b5dc-4163-a633-c2cf6e2f7db2.png)
+
 
 
 ```python
@@ -239,8 +240,9 @@ def define_model():
 Updated Model Architecture
 
 
+![model_updated](https://user-images.githubusercontent.com/37925362/150371079-f4cd30f9-3986-4eac-82db-c940f2b4f647.png)
 
-![model_updated.png](attachment:model_updated.png)
+
 
 
 ```python
