@@ -96,6 +96,11 @@ With a default batch size of 32 examples, we'll train the baseline model for a m
 These behaviours are implemented in the evaluate model() function, which takes the training dataset as an argument and returns a collection of accuracy scores and training histories that may be summarised afterwards.
 
 
+Model architecture
+
+![model.png](attachment:model.png)
+
+
 ```python
 # evaluate a model using k-fold cross-validation
 def evaluate_model(dataX, dataY, n_folds=5):
@@ -231,6 +236,11 @@ def define_model():
     model.compile(optimizer=opt, loss='categorical_crossentropy', metrics=['accuracy'])
     return model
 ```
+Updated Model Architecture
+
+
+
+![model_updated.png](attachment:model_updated.png)
 
 
 ```python
